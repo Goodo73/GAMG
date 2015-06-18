@@ -1,6 +1,11 @@
+body {
+	background-color: black;
+	color: #fff;
+}
+
 #mc_embed_signup {
-	background: #fff;
-	clear: left;
-	font: 14px Helvetica,Arial,sans-serif;
-	width: 400px;
+	/*clear: left;*/
+	font: 1em Helvetica,Arial,sans-serif;
+	width: 90%;
+	margin: 0 auto;
 }
