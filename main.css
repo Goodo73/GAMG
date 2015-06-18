@@ -15,7 +15,9 @@ body {
 	display: none;
 }
 
-@media screen and { min-width: 480px; }
+@media screen and ( min-width: 480px; ) {
 	#mc_embed_signup {
 		width: 50%;
+		margin-top: 100px;
 	}
+}
