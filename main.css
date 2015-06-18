@@ -4,8 +4,9 @@ body {
 }
 
 #mc_embed_signup {
-	/*clear: left;*/
 	font: 1em Helvetica,Arial,sans-serif;
-	width: 90%;
+	width: 85%;
 	margin: 0 auto;
+	border: 2px black solid;
+	border-radius: 5px;
 }
